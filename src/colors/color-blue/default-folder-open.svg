@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <filter id="filter11290" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.15875313"/>
+  </filter>
+  <linearGradient id="linearGradient1032" x1="-7.519" x2="-7.519" y1="267.55" y2="286.91" gradientTransform="translate(15.941 -263.09)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#198cff" offset="0"/>
+   <stop stop-color="#1964ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient677348" x1="-6.1738" x2="-6.1738" y1="-126.08" y2="-126.7" gradientTransform="matrix(.52936 0 0 .54035 11.537 77.394)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#198cff" offset="0"/>
+   <stop stop-color="#195aff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient11339-5" x1="8.5328" x2="8.5328" y1="277.25" y2="296.44" gradientTransform="translate(0,-280.07)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#198cff" offset="0"/>
+   <stop stop-color="#1964ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="8.4937" cy="8.46" r="7.9377" filter="url(#filter11290)" opacity=".25" stroke-width=".14032"/>
+ <path d="m16.439 8.46c0 0.95154-0.16749 1.8639-0.47464 2.7094-0.21351 0.58768-0.49439 1.1433-0.83393 1.6572-0.14222 0.21608-0.29514 0.42475-0.45746 0.62529-0.51966 0.64179-1.1372 1.2007-1.8305 1.6543-0.2553 0.16718-0.52065 0.3201-0.79536 0.45712-1.0668 0.53389-2.2711 0.83421-3.5456 0.83421s-2.4788-0.30032-3.5456-0.83424c-0.27474-0.13705-0.5404-0.28997-0.7957-0.45712-0.70207-0.45973-1.327-1.0274-1.8509-1.6798-0.16263-0.20216-0.31524-0.41275-0.45746-0.63078-0.33046-0.5054-0.60421-1.0507-0.8135-1.627-0.30711-0.84529-0.4743-1.7573-0.4743-2.7085 0-4.3838 3.5537-7.9375 7.9375-7.9375 2.2005 0 4.1917 0.89548 5.6295 2.3417 0.41436 0.41662 0.78274 0.87929 1.0963 1.3795 0.29645 0.47107 0.54428 0.97582 0.73704 1.5068 0.30718 0.84559 0.47467 1.7579 0.47467 2.7094z" fill="url(#linearGradient11339-5)" stroke-width=".031006"/>
+ <path d="m15.749 3.9623v5.4456h-14.496v-2.9249c0-0.75555 0.59458-1.3678 1.3283-1.3678h4.0557c0.51072 0 0.97417-0.30649 1.1869-0.78436l0.34924-0.78469c0.15814-0.35514 0.50271-0.58279 0.88191-0.58279h5.7233c0.53568 0 0.97014 0.44738 0.97014 0.99898z" fill="#fafafa" stroke-width=".030556"/>
+ <path d="m2.8648 6.7c0.0068 0.040625 0.01323 0.081176 0.02076 0.12163h11.233c7e-3 -0.043705 0.01301-0.078492 0.01927-0.12163z" fill="#197dff" opacity=".6" stroke-width=".78422" style="paint-order:normal"/>
+ <path d="m15.964 7.0834v4.0778c-0.21351 0.58768-0.49439 1.1433-0.83393 1.6572-0.14222 0.21608-0.29514 0.42475-0.45746 0.62529-0.51966 0.64179-1.1372 1.2007-1.8305 1.6543-0.2553 0.16718-0.52065 0.3201-0.79536 0.45712-1.0668 0.53389-2.2711 0.83421-3.5456 0.83421s-2.4788-0.30032-3.5456-0.83424c-0.27474-0.13705-0.5404-0.28997-0.7957-0.45712-0.70207-0.45973-1.327-1.0274-1.8509-1.6798-0.16263-0.20216-0.31524-0.41275-0.45746-0.63078-0.33046-0.5054-0.60421-1.0507-0.8135-1.627v-1.5563c0-0.75552 0.61233-1.3679 1.3679-1.3679h5.2164c0.52583 0 1.003-0.30649 1.2221-0.78435l0.35961-0.78467c0.16263-0.35508 0.5177-0.58284 0.9081-0.58284h4.8532c0.09072 0 0.1785 0.012 0.26178 0.0347 0.42472 0.115 0.73704 0.50347 0.73704 0.9645z" fill="url(#linearGradient1032)" stroke-width=".031006"/>
+ <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <path d="m1.4566 8.9662c-0.04516 0.091-0.08974 0.18276-0.13152 0.27537h14.353c-0.03997-0.0926-0.08778-0.18438-0.13102-0.27537z" fill="url(#linearGradient677348)" stroke-width=".1415"/>
+</svg>
