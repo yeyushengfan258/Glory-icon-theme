@@ -11,6 +11,10 @@
   </filter>
   <linearGradient id="linearGradient1057" x1="51" x2="55" y1="26" y2="26" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1055"/>
   <linearGradient id="linearGradient1065" x1="12" x2="15" y1="27.5" y2="27.5" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1055"/>
+  <linearGradient id="linearGradient937" x1="6.591" x2="57.409" y1="44.034" y2="20.426" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dcdcdc" offset="0"/>
+   <stop stop-color="#fafafa" offset="1"/>
+  </linearGradient>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -60,16 +64,14 @@
   <circle cx="-299.82" cy="-321.23" r="0"/>
  </g>
  <g transform="matrix(.20352 0 0 .20352 1.9889 1.9474)">
-  <g>
-   <path d="m20.183 10.514v6.335l-2.364 4e-3v3.573h28.363v-3.573h-2.364v-6.399z" color="#000000" fill="#969696" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
-   <path d="m21.364 9.863h21.273v10.563h-21.272z" color="#000000" fill="#f0f0f0" overflow="visible" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".059" stroke-width=".882" style="isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill"/>
-   <path d="m16.637 39.898h31.387l4.658 6.5h-40.772z" color="#000000" fill="#969696" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
-   <path d="m18.41 40.489h27.18l7.464 13.648h-41.516z" color="#000000" fill="#f0f0f0" overflow="visible" stroke="#828282" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".059" stroke-width=".882" style="isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill"/>
-   <path d="m6 21.016 0.592-0.59h50.817l0.591 0.59v22.427l-0.59 0.59h-4.137l-4.727-5.317h-33.091l-4.732 5.318h-4.132l-0.591-0.591z" color="#000000" display="block" fill="#c8c8c8" overflow="visible" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
-  </g>
+  <path d="m20.183 10.514v6.335l-2.364 4e-3v3.573h28.363v-3.573h-2.364v-6.399z" color="#000000" fill="#c8c8c8" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m21.364 9.863h21.273v10.563h-21.272z" color="#000000" fill="#f0f0f0" overflow="visible" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".059" stroke-width=".882" style="isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill"/>
+  <path d="m16.637 39.898h31.387l4.658 6.5h-40.772z" color="#000000" fill="#c8c8c8" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m18.41 40.489h27.18l7.464 13.648h-41.516z" color="#000000" fill="#f0f0f0" overflow="visible" stroke="#828282" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".059" stroke-width=".882" style="isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill"/>
+  <path d="m6 21.016 0.592-0.59h50.817l0.591 0.59v22.427l-0.59 0.59h-4.137l-4.727-5.317h-33.091l-4.732 5.318h-4.132l-0.591-0.591z" color="#000000" display="block" fill="url(#linearGradient937)" overflow="visible" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
   <path d="m15 27.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z" color="#000000" display="block" fill="url(#linearGradient1065)" overflow="visible" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
   <circle cx="55.5" cy="22.5" r=".5" color="#000000" display="block" fill="#fff" overflow="visible" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
-  <path d="m16.637 37.534h30.726c0.69 0 1.182 0.492 1.182 1.182h-33.09c0-0.69 0.493-1.182 1.182-1.182z" color="#000000" display="block" fill-opacity=".417" overflow="visible" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+  <path d="m16.637 37.534h30.726c0.69 0 1.182 0.492 1.182 1.182h-33.09c0-0.69 0.493-1.182 1.182-1.182z" color="#000000" display="block" fill="#c8c8c8" overflow="visible" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
   <rect x="48.273" y="25" width="6" height="2" ry="1" fill="#0e7def" opacity=".5" style="paint-order:markers stroke fill"/>
   <circle cx="53" cy="26" r="2" fill="url(#linearGradient1057)" style="paint-order:markers stroke fill"/>
   <g fill="#fff">
