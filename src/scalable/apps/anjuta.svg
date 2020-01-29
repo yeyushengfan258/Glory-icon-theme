@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="a" x1="61.531" x2="2.6611" y1="2" y2="61.808" gradientTransform="translate(4.9106e-5 4.9106e-5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dc28e6" offset="0"/>
+   <stop stop-color="#8c14e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b-3" x1="30.207" x2="14" y1="43" y2="10" gradientTransform="matrix(1.5 0 0 1.5 -4.7765 -1.3198)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cdbee6" offset="0"/>
+   <stop stop-color="#fafafa" offset="1"/>
+  </linearGradient>
+  <filter id="filter890" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="9.5623999"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(.062745 0 0 .062745 -.12544 -.12544)" cx="512" cy="512" r="478.12" fill="#141414" filter="url(#filter890)" opacity=".3" stroke-width="15.938" style="paint-order:stroke markers fill"/>
+ <circle cx="-1248.6" cy="-1241.1" r="0" fill="#5e4aa6"/>
+ <circle cx="-1145.4" cy="-1241.1" r="0" fill="#5e4aa6"/>
+ <circle cx="32" cy="32" r="30" fill="url(#a)" style="paint-order:stroke markers fill"/>
+ <path d="m35.908 12.18s-4.7957 3.2895-5.124 5.1563c0 0-10.146-3.2072-19.061 5.3438h4.5s-11.795 7.3711-12 12c0.20508-0.12891 2.168-1.1526 3-1.5 0 0-3.5428 7.1411-1.3635 13.579 5.0615 8.8753 14.369 14.989 25.073 15.228 0.32943 0.0074 0.6491 0.03239 0.97559 0.02093 0.37603-1.2876 2.2016-8.169-0.99925-12.302-2.7553-3.5649-7.5632-13.236-1.1865-16.526 0 0 4.0301 5.6562 8.7627 6.2051 0 0 0.55244 4.8485 6.2725 1.7695 1.5266-0.81822 2.0942-3.5251 0.55371-5.7217l-1.2129-1.7549s-4.016-9.6444-6.876-12.498c0 0-1.5-4.5 0-7.5 0 0-1.6994 1.2619-2.25 2.25 0 0 0.38276-3.2049 0.93458-3.75z" fill="url(#b-3)"/>
+</svg>
