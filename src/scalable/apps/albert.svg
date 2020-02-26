@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,20 +10,27 @@
   </rdf:RDF>
  </metadata>
  <defs>
-  <linearGradient id="f" x1="-6.1472" x2="-6.1472" y1="-159.56" y2="-102.47" gradientTransform="matrix(.53033 0 0 .53033 11.653 71.909)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#969692" offset="0"/>
-   <stop offset="1"/>
-  </linearGradient>
   <linearGradient id="linearGradient978" x1="5.8254" x2="11.018" y1="10.836" y2="5.9035" gradientTransform="matrix(1.1627 0 0 1.1627 -1.401 -1.3633)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#14a03c" offset="0"/>
    <stop stop-color="#14dc78" offset="1"/>
   </linearGradient>
+  <filter id="filter11290-6" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.15875313"/>
+  </filter>
+  <linearGradient id="linearGradient971" x1="8.3879" x2="8.3879" y1="16.432" y2=".60259" gradientTransform="translate(-5.5e-5,5e-5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#33393e" offset="0"/>
+   <stop stop-color="#1d2123" offset="1"/>
+  </linearGradient>
  </defs>
+ <circle cx="8.4665" cy="8.4665" r="7.9377" filter="url(#filter11290-6)" opacity=".25" stroke-width=".14032"/>
+ <path d="m16.404 8.4664c0 0.95154-0.16749 1.8639-0.47464 2.7094-0.21351 0.58768-0.49439 1.1433-0.83393 1.6572-0.14222 0.21608-0.29514 0.42475-0.45746 0.62529-0.51966 0.64179-1.1372 1.2007-1.8305 1.6543-0.2553 0.16718-0.52065 0.3201-0.79536 0.45712-1.0668 0.53389-2.2711 0.83421-3.5456 0.83421s-2.4788-0.30032-3.5456-0.83424c-0.27474-0.13705-0.5404-0.28997-0.7957-0.45712-0.70207-0.45973-1.327-1.0274-1.8509-1.6798-0.16263-0.20216-0.31524-0.41275-0.45746-0.63078-0.33046-0.5054-0.60421-1.0507-0.8135-1.627-0.30711-0.84529-0.4743-1.7573-0.4743-2.7085 0-4.3838 3.5537-7.9375 7.9375-7.9375 2.2005 0 4.1917 0.89548 5.6295 2.3417 0.41436 0.41662 0.78274 0.87929 1.0963 1.3795 0.29645 0.47107 0.54428 0.97582 0.73704 1.5068 0.30718 0.84559 0.47467 1.7579 0.47467 2.7094z" fill="url(#linearGradient971)" stroke-width=".031006"/>
  <circle cx="-305.98" cy="-333.89" r="0" fill="#5e4aa6" stroke-width=".26458"/>
- <circle cx="8.6102" cy="8.6489" r="7.9375" opacity=".2" stroke-width=".14032"/>
- <circle cx="8.6102" cy="8.3789" r="7.9375" fill="url(#f)" stroke-width=".14032"/>
  <circle cx="-15.066" cy=".93027" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
  <path d="m7.6425 5.5407c-1.2499-0.0014185-2.1633 0.95705-2.7473 2.0735-0.7611 1.4548-1.5641 3.6049-0.014557 3.6049 1.6308 0 2.9858-0.90522 3.9439-1.5893 0.34753 0.63365 0.8534 1.5893 1.5601 1.5893 0.70678 0 1.3511-0.27831 1.6659-0.52609l1.174-1.6351-0.12708-0.14626c-1.4859 0.73624-1.9929 1.2425-2.8278-0.34646l1.054-0.96912 1.5478-1.9159-0.11396-0.14128-2.7849 2.4388c-0.45083-0.93326-1.377-2.4359-2.3312-2.437m-1.0426 1.2055c0.88499 0 1.404 1.3035 1.9248 2.2694-0.76784 0.43663-1.771 0.97516-2.5062 0.82464-0.8715-0.17856-1.0934-1.0902-0.74228-1.775 0.31133-0.64182 0.69329-1.3184 1.3227-1.3184" fill="url(#linearGradient978)" stroke-width="1.1627"/>
- <circle cx="-280.67" cy="-338.3" r="0" fill="#5e4aa6" stroke-width=".26458"/>
- <circle cx="10.243" cy="-3.4759" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+ <g fill="#5e4aa6">
+  <circle cx="-280.67" cy="-338.3" r="0" stroke-width=".26458"/>
+  <circle cx="10.243" cy="-3.4759" r="0" fill-rule="evenodd" stroke-width=".26458"/>
+  <circle cx="-300.96" cy="-332.03" r="0" stroke-width=".26458"/>
+  <circle cx="-278.63" cy="-338.38" r="0" stroke-width=".26458"/>
+ </g>
 </svg>
